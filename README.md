@@ -5,3 +5,7 @@ im my carousel the **width of parent element that wraps around items is matters*
 
 
 
+## DEMO
+https://codesandbox.io/s/github/a-m-dev/React_draggable_carousel/tree/master/
+
+
